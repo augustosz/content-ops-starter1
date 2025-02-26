@@ -1,6 +1,6 @@
 ---
-title: Careers
-slug: careers
+title: inicio
+slug: inicio
 sections:
   - title:
       text: A team that works closely together
