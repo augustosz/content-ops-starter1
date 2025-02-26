@@ -787,7 +787,7 @@ sections:
     colors: bg-light-fg-dark
     media:
       type: ImageBlock
-      url: /images/abstract-background.svg
+      url: /images/whats.png
       altText: Image alt text placeholder
       elementId: ''
       styles:
