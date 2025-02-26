@@ -724,7 +724,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Ver Demo Online
             altText: ''
             url: 'https://augustosz.github.io/zaz/'
             showIcon: false
