@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/hero.svg
+      url: /images/background-grid.svg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
