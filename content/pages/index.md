@@ -632,7 +632,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /ecomerce
+            url: /Proyectos
             showIcon: false
             icon: arrowRight
             iconPosition: right
