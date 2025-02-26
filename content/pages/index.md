@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Hexagon.svg
+      url: /images/Hexagon (1).svg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
