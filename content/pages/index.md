@@ -640,7 +640,7 @@ sections:
               - pt-6
               - pb-10
               - pl-4
-              - pr-6
+              - pr-4
             borderRadius: large
       - type: PricingPlan
         title: Professional
