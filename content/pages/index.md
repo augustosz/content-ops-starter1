@@ -771,7 +771,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: "\U0001F4E9 Hablemos sobre tu proyecto"
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
