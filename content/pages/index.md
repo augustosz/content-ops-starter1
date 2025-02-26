@@ -793,6 +793,10 @@ sections:
       styles:
         self:
           borderRadius: medium
+    styles:
+      self:
+        padding:
+          - pr-6
 slug: /
 seo:
   type: Seo
