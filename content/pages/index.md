@@ -796,7 +796,7 @@ sections:
     styles:
       self:
         padding:
-          - pr-6
+          - pr-0
 slug: /
 seo:
   type: Seo
