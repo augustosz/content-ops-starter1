@@ -798,7 +798,7 @@ sections:
         padding:
           - pr-0
         margin:
-          - mr-32
+          - mr-0
 slug: /
 seo:
   type: Seo
