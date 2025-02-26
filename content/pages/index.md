@@ -632,7 +632,7 @@ sections:
           - type: Button
             label: Ver más
             altText: ''
-            url: /Proyectos
+            url: /proyectos
             showIcon: false
             icon: arrowRight
             iconPosition: right
