@@ -488,15 +488,15 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify site.
+          Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placholder image
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -512,15 +512,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/abstract-feature1.svg
+          altText: Placholder image
           styles:
             self:
               borderRadius: x-large
