@@ -708,7 +708,7 @@ sections:
       - type: FeaturedItem
         title: Feature Item One
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Descripción General:'
         text: >
           Este proyecto consiste en el desarrollo de una plataforma de comercio
           electrónico moderna, intuitiva y escalable, diseñada para ofrecer una
