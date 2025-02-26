@@ -639,7 +639,7 @@ sections:
             padding:
               - pt-6
               - pb-10
-              - pl-6
+              - pl-4
               - pr-6
             borderRadius: large
       - type: PricingPlan
