@@ -689,7 +689,7 @@ sections:
         margin:
           - mt-96
           - mb-96
-          - ml-0
+          - ml-96
           - mr-96
       subtitle:
         textAlign: center
