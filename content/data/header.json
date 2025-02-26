@@ -23,7 +23,7 @@
         {
             "label": "Proyectos",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/proyectos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
