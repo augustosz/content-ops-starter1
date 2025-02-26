@@ -190,7 +190,7 @@ sections:
         url: /images/Django (4).svg
         altText: Rangle logo
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/JavaScript (3).svg
         altText: Sanity logo
     motion: move-to-left
     colors: bg-light-fg-dark
