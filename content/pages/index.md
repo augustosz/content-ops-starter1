@@ -687,7 +687,7 @@ sections:
           - pt-4
           - pb-4
           - pl-28
-          - pr-36
+          - pr-6
         margin:
           - mt-96
           - mb-96
