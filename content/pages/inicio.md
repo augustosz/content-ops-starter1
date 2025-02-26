@@ -1,5 +1,5 @@
 ---
-title: inicio
+title: iniciono
 slug: inicio
 sections:
   - title:
