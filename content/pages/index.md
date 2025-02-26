@@ -169,7 +169,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Con las Tecnologias
+    subtitle: Con las tecnologías que mejor se ajusten a tus necesidades...
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
