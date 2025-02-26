@@ -187,11 +187,11 @@ sections:
         url: /images/contenful-logo.svg
         altText: Contentful logo
       - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-      - type: ImageBlock
         url: /images/database-sql-svgrepo-com.svg
         altText: Rangle logo
+      - type: ImageBlock
+        url: /images/sanity-logo.svg
+        altText: Sanity logo
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
