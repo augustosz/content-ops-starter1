@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/background-grid.svg
+      url: /images/Polygon Luminary.svg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
