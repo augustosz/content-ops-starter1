@@ -682,7 +682,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
         textAlign: center
   - type: GenericSection
