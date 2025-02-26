@@ -685,7 +685,7 @@ sections:
         justifyContent: center
         padding:
           - pt-0
-          - pb-96
+          - pb-0
         margin:
           - mt-96
           - mb-96
