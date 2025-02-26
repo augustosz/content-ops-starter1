@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: proyectos-pre
+title: proyectos
 sections:
   - type: PricingSection
     title:
