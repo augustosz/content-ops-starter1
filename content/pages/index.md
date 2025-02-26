@@ -737,9 +737,9 @@ sections:
           self:
             padding:
               - pt-8
-              - pl-10
+              - pl-8
               - pb-8
-              - pr-10
+              - pr-8
             borderRadius: x-large
             flexDirection: col
             borderWidth: 0
