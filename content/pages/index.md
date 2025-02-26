@@ -688,6 +688,7 @@ sections:
           - pb-0
         margin:
           - mt-3
+          - mb-3
       subtitle:
         textAlign: center
   - type: GenericSection
