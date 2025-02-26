@@ -710,11 +710,11 @@ sections:
         tagline: ''
         subtitle: 'Descripción General:'
         text: >
-          Este proyecto consiste en el desarrollo de una plataforma de comercio
-          electrónico moderna, intuitiva y escalable, diseñada para ofrecer una
-          experiencia de compra fluida y atractiva. La solución permite la
-          gestión eficiente de productos, pedidos y usuarios, con un enfoque en
-          la optimización de la conversión y la satisfacción del cliente.
+          Plataforma de comercio electrónico moderna, intuitiva y escalable,
+          diseñada para ofrecer una experiencia de compra fluida y atractiva. La
+          solución permite la gestión eficiente de productos, pedidos y
+          usuarios, con un enfoque en la optimización de la conversión y la
+          satisfacción del cliente.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
