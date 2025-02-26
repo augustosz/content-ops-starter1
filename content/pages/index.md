@@ -604,15 +604,12 @@ sections:
       - title: Web Ecomerce
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: >+
-          Este proyecto consiste en el desarrollo de una plataforma de comercio
-          electrónico moderna, intuitiva y escalable, diseñada para ofrecer una
-          experiencia de compra fluida y atractiva. La solución permite la
-          gestión eficiente de productos, pedidos y usuarios, con un enfoque en
-          la optimización de la conversión y la satisfacción del cliente.
-
-
-
+        text: >
+          Plataforma de comercio electrónico moderna, intuitiva y escalable,
+          diseñada para ofrecer una experiencia de compra fluida y atractiva. La
+          solución permite la gestión eficiente de productos, pedidos y
+          usuarios, con un enfoque en la optimización de la conversión y la
+          satisfacción del cliente.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
