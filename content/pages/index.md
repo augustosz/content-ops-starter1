@@ -643,6 +643,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+            borderWidth: 1
       - type: PricingPlan
         title: Enterprise
         price: Custom
