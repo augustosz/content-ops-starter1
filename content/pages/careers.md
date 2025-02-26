@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: inicio
 slug: careers
 sections:
   - title:
