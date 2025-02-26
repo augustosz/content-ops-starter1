@@ -797,7 +797,7 @@ sections:
             - pl-0
             - pr-0
           margin:
-            - mb-96
+            - mb-0
     styles:
       self:
         padding:
