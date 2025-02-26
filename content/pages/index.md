@@ -35,6 +35,7 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      url: /images/abstract-feature2.svg
     badge:
       type: Badge
       label: This is a badge
