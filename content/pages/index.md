@@ -709,8 +709,12 @@ sections:
         title: Feature Item One
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Este proyecto consiste en el desarrollo de una plataforma de comercio
+          electrónico moderna, intuitiva y escalable, diseñada para ofrecer una
+          experiencia de compra fluida y atractiva. La solución permite la
+          gestión eficiente de productos, pedidos y usuarios, con un enfoque en
+          la optimización de la conversión y la satisfacción del cliente.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
