@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Inicio",
-            "url": "/pricing",
+            "url": "/inicio",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
