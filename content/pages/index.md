@@ -187,7 +187,7 @@ sections:
         url: /images/contenful-logo.svg
         altText: Contentful logo
       - type: ImageBlock
-        url: /images/Django (2).svg
+        url: /images/Django (4).svg
         altText: Rangle logo
       - type: ImageBlock
         url: /images/sanity-logo.svg
