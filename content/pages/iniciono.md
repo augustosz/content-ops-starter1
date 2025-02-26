@@ -1,6 +1,6 @@
 ---
 title: iniciono
-slug: inicio
+slug: iniciono
 sections:
   - title:
       text: A team that works closely together
