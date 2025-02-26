@@ -742,6 +742,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            borderWidth: 2
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
