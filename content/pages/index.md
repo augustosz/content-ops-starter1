@@ -190,7 +190,7 @@ sections:
         url: /images/sanity-logo.svg
         altText: Sanity logo
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/database-sql-svgrepo-com.svg
         altText: Rangle logo
     motion: move-to-left
     colors: bg-light-fg-dark
