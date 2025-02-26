@@ -706,7 +706,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Plataforma de eCommerce
         tagline: ''
         subtitle: 'Descripción General:'
         text: >
