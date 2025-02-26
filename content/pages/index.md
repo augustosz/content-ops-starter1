@@ -630,7 +630,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Ver Proyecto
             altText: ''
             url: /Proyectos
             showIcon: false
