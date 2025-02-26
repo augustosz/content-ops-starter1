@@ -687,10 +687,10 @@ sections:
           - pt-0
           - pb-0
         margin:
-          - mt-3
-          - mb-3
-          - ml-3
-          - mr-3
+          - mt-32
+          - mb-32
+          - ml-32
+          - mr-32
       subtitle:
         textAlign: center
   - type: GenericSection
