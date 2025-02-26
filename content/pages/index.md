@@ -686,7 +686,7 @@ sections:
         padding:
           - pt-4
           - pb-4
-          - pl-28
+          - pl-6
           - pr-6
         margin:
           - mt-96
