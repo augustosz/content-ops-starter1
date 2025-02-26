@@ -645,7 +645,7 @@ sections:
             borderRadius: large
             borderWidth: 1
             borderStyle: dashed
-            textAlign: justify
+            textAlign: left
       - type: PricingPlan
         title: Enterprise
         price: Custom
