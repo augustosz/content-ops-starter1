@@ -799,7 +799,7 @@ sections:
       self:
         padding:
           - pr-0
-          - pt-1
+          - pt-5
         margin:
           - mr-0
 slug: /
