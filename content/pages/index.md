@@ -644,6 +644,7 @@ sections:
               - pr-6
             borderRadius: large
             borderWidth: 1
+            borderStyle: dashed
       - type: PricingPlan
         title: Enterprise
         price: Custom
