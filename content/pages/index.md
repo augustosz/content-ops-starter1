@@ -690,6 +690,7 @@ sections:
           - mt-3
           - mb-3
           - ml-3
+          - mr-3
       subtitle:
         textAlign: center
   - type: GenericSection
