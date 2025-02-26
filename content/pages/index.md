@@ -688,7 +688,7 @@ sections:
           - pb-0
         margin:
           - mt-20
-          - mb-32
+          - mb-0
           - ml-0
           - mr-0
       subtitle:
