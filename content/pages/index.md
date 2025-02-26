@@ -169,7 +169,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Diversas tecnologias
+    subtitle: Diversas Tecnologias
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
