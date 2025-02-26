@@ -642,6 +642,7 @@ sections:
               - pl-4
               - pr-4
             borderRadius: large
+            borderWidth: 2
       - type: PricingPlan
         title: Professional
         price: $99
