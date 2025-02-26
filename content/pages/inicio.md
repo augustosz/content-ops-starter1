@@ -1,6 +1,6 @@
 ---
 title: inicio
-slug: /
+slug: inicio
 sections:
   - type: GenericSection
     title:
