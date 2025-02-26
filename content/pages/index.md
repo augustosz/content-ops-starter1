@@ -33,10 +33,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       url: /images/abstract-feature2.svg
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
