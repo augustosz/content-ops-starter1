@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "\U0001F680 Potenciá tu negocio con una web profesional y atractiva"
+      text: "\U0001F680Potenciá tu negocio con una web profesional y atractiva"
       color: text-dark
     subtitle: Subtitle goes here
     text: >
