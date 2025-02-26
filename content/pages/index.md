@@ -639,7 +639,7 @@ sections:
             padding:
               - pt-0
               - pb-0
-              - pl-4
+              - pl-0
               - pr-4
             borderRadius: large
             borderWidth: 2
