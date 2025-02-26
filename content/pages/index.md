@@ -795,7 +795,7 @@ sections:
           borderRadius: medium
           padding:
             - pl-0
-            - pr-36
+            - pr-0
     styles:
       self:
         padding:
