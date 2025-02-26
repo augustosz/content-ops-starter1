@@ -8,10 +8,7 @@ sections:
       text: "Potenciá tu negocio con una web profesional y atractiva\U0001F680"
       color: text-dark
     subtitle: Subtitle goes here
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "\n ¿Necesitás una página web moderna, rápida y optimizada para convertir visitas en clientes? Como desarrollador freelance, diseño sitios a medida que destacan tu marca, mejoran tu presencia online y generan resultados. \U0001F4BB✨ Contactame y llevemos tu proyecto al siguiente nivel.\n\n"
     actions:
       - type: Button
         label: Get started
