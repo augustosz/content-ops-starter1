@@ -692,7 +692,7 @@ sections:
           - mt-96
           - mb-96
           - ml-0
-          - mr-96
+          - mr-0
       subtitle:
         textAlign: center
   - type: GenericSection
