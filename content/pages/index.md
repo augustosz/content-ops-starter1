@@ -739,7 +739,7 @@ sections:
               - pt-8
               - pl-8
               - pb-8
-              - pr-8
+              - pr-10
             borderRadius: x-large
             flexDirection: col
             borderWidth: 0
