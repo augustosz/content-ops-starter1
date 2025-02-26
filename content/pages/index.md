@@ -1,5 +1,5 @@
 ---
-title: inicio
+title: ''
 slug: /
 sections:
   - type: GenericSection
