@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Shiny Overlay.svg
+      url: /images/Hexagon.svg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
