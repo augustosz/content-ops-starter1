@@ -793,6 +793,8 @@ sections:
       styles:
         self:
           borderRadius: medium
+          padding:
+            - pl-16
     styles:
       self:
         padding:
