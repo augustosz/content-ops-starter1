@@ -778,7 +778,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Contact Us
+      label: CONTACTAME
       color: text-primary
     colors: bg-light-fg-dark
     media:
