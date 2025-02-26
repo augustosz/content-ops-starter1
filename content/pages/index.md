@@ -774,11 +774,7 @@ sections:
       text: "\U0001F4E9 Hablemos sobre tu proyecto"
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "\n¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n"
     actions: []
     badge:
       type: Badge
