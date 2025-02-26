@@ -603,7 +603,7 @@ sections:
     items:
       - title: Web Ecomerce
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Descripción General:'
         text: >
           Plataforma de comercio electrónico moderna, intuitiva y escalable,
           diseñada para ofrecer una experiencia de compra fluida y atractiva. La
