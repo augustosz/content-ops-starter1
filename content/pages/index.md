@@ -577,7 +577,7 @@ sections:
             margin:
               - mb-0
             justifyContent: center
-            textAlign: justify
+            textAlign: left
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
