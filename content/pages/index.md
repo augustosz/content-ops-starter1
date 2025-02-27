@@ -582,7 +582,7 @@ sections:
       - type: FeaturedItem
         title: Medic Care - Plataforma Web para Centros de Salud
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Descripción General:'
         text: >
           Medic Care es una plataforma web diseñada para hospitales, clínicas y
           centros de salud con el objetivo de ofrecer información clara y
