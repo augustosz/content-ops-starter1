@@ -589,6 +589,9 @@ sections:
           accesible a los pacientes. Desarrollado con tecnologías modernas, el
           sitio proporciona una experiencia intuitiva y profesional para la
           gestión de citas, información médica y contacto con especialistas.
+
+
+          ‎
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
