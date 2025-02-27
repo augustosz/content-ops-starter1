@@ -579,10 +579,9 @@ sections:
         text: >
           Medic Care es una plataforma web diseñada para hospitales, clínicas y
           centros de salud con el objetivo de ofrecer información clara y
-          accesible a los pacientes. Desarrollado con Bootstrap 5 y tecnologías
-          modernas, el sitio proporciona una experiencia intuitiva y profesional
-          para la gestión de citas, información médica y contacto con
-          especialistas.
+          accesible a los pacientes. Desarrollado con tecnologías modernas, el
+          sitio proporciona una experiencia intuitiva y profesional para la
+          gestión de citas, información médica y contacto con especialistas.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
