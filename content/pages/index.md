@@ -538,7 +538,7 @@ sections:
         title: Plataforma de eCommerce
         tagline: ''
         subtitle: 'Descripción General:'
-        text: >+
+        text: >
           Plataforma de comercio electrónico moderna e intuitiva, diseñada para
           ofrecer una experiencia de compra fluida y atractiva. La solución
           permite la gestión eficiente de productos, pedidos y usuarios, con un
@@ -548,6 +548,7 @@ sections:
 
 
 
+          .
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
