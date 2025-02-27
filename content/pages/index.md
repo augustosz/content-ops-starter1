@@ -576,7 +576,7 @@ sections:
             borderWidth: 0
             margin:
               - mb-0
-            justifyContent: flex-end
+            justifyContent: center
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
