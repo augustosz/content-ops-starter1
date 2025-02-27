@@ -7,11 +7,11 @@ sections:
       type: TitleBlock
       text: "Potenciá tu negocio con una web profesional y atractiva\U0001F680"
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: "\n ¿Necesitás una página web moderna, rápida y optimizada para convertir visitas en clientes? Como desarrollador freelance, diseño sitios a medida que destacan tu marca, mejoran tu presencia online y generan resultados. \U0001F4BB✨ Contactame y llevemos tu proyecto al siguiente nivel.\n\n"
     actions:
       - type: Button
-        label: Get started
+        label: Contactar
         altText: ''
         url: /
         showIcon: false
@@ -52,122 +52,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/background-grid.svg
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Subtitle goes here
-    items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon1.svg
-          altText: Placeholder image
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-      - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon2.svg
-          altText: Placeholder image
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-      - type: FeaturedItem
-        title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon3.svg
-          altText: Placeholder image
-          elementId: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: ImageGallerySection
     subtitle: Con las tecnologías que mejor se ajusten a tus necesidades...
     images:
@@ -199,25 +83,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
@@ -711,8 +576,12 @@ sections:
         title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Medic Care es una plataforma web diseñada para hospitales, clínicas y
+          centros de salud con el objetivo de ofrecer información clara y
+          accesible a los pacientes. Desarrollado con tecnologías modernas, el
+          sitio proporciona una experiencia intuitiva y profesional para la
+          gestión de citas, información médica y contacto con especialistas.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
@@ -720,7 +589,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -768,31 +646,70 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/what-is-a-design-system.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    hoverEffect: move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: "\U0001F4E9 Hablemos sobre tu proyecto"
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n"
     actions: []
     badge:
       type: Badge
-      label: Contact Us
+      label: CONTACTAME
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     media:
       type: ImageBlock
-      url: /images/abstract-background.svg
+      url: '/images/whats@0,5x.png'
       altText: Image alt text placeholder
       elementId: ''
       styles:
         self:
           borderRadius: medium
+          padding:
+            - pl-0
+            - pr-0
+          margin:
+            - mb-0
+            - ml-10
+    styles:
+      self:
+        padding:
+          - pr-0
+          - pt-14
+        margin:
+          - mr-0
 slug: /
 seo:
   type: Seo
