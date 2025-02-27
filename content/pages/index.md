@@ -575,7 +575,7 @@ sections:
             flexDirection: col
             borderWidth: 0
             margin:
-              - mb-36
+              - mb-0
       - type: FeaturedItem
         title: Feature Item Two
         tagline: This is the tagline
