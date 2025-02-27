@@ -11,7 +11,7 @@ sections:
     text: "\n ¿Necesitás una página web moderna, rápida y optimizada para convertir visitas en clientes? Como desarrollador freelance, diseño sitios a medida que destacan tu marca, mejoran tu presencia online y generan resultados. \U0001F4BB✨ Contactame y llevemos tu proyecto al siguiente nivel.\n\n"
     actions:
       - type: Button
-        label: Get started
+        label: Contactar
         altText: ''
         url: /
         showIcon: false
