@@ -544,6 +544,8 @@ sections:
           permite la gestión eficiente de productos, pedidos y usuarios, con un
           enfoque en la optimización de la conversión y la satisfacción del
           cliente.
+
+          <https://augustosz.github.io/hospital/>
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
