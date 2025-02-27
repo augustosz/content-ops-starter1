@@ -645,7 +645,7 @@ sections:
       type: Badge
       label: CONTACTAME
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     media:
       type: ImageBlock
       url: '/images/whats@0,5x.png'
