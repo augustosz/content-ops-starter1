@@ -556,7 +556,7 @@ sections:
             label: Ver Demo Online
             altText: ''
             url: 'https://augustosz.github.io/zaz/'
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
