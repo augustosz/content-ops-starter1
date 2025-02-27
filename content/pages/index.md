@@ -546,9 +546,7 @@ sections:
           cliente.
 
 
-
-
-          .
+          ㅤ
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
