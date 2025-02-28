@@ -76,7 +76,7 @@ sections:
       - type: ImageBlock
         url: /images/JavaScript (3).svg
         altText: Sanity logo
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
