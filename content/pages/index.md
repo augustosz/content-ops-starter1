@@ -288,7 +288,7 @@ sections:
             self:
               borderRadius: x-large
               padding:
-                - pt-5
+                - pt-0
         actions:
           - type: Button
             label: Ver Demo Online
