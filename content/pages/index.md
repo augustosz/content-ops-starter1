@@ -73,6 +73,10 @@ sections:
       - type: ImageBlock
         url: /images/Django (4).svg
         altText: Rangle logo
+        styles:
+          self:
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/JavaScript (3).svg
         altText: Sanity logo
