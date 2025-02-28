@@ -321,7 +321,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
           altText: Placeholder image
           styles:
             self:
