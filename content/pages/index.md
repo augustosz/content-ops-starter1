@@ -77,7 +77,7 @@ sections:
         url: /images/JavaScript (3).svg
         altText: Sanity logo
     motion: static
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
