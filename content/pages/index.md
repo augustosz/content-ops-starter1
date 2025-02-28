@@ -313,7 +313,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Medic Care - Plataforma Web para Centros de Salud
+        title: Medic Care - Web para Centros de Salud
         tagline: ''
         subtitle: ''
         text: ''
