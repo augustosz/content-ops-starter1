@@ -85,6 +85,7 @@ sections:
           self:
             padding:
               - pl-6
+              - pr-6
     motion: static
     colors: bg-neutral-fg-dark
     styles:
