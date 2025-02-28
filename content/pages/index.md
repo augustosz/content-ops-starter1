@@ -535,7 +535,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: "Plataforma de eCommerce\_‎‎‎‎‎‎"
+        title: "Plataforma de eCommerce\_‎‎‎‎‎"
         tagline: ''
         subtitle: ''
         text: ''
