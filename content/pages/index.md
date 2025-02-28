@@ -537,7 +537,7 @@ sections:
       - type: FeaturedItem
         title: Plataforma de eCommerce
         tagline: ''
-        subtitle: 'Descripción General:'
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
