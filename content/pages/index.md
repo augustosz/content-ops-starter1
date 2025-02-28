@@ -573,7 +573,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Medic Care - Plataforma Web para Centros de Salud
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
