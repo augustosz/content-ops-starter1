@@ -654,7 +654,6 @@ sections:
     colors: bg-neutral-fg-dark
     media:
       type: ImageBlock
-      url: '/images/whats@0,5x.png'
       altText: Image alt text placeholder
       elementId: ''
       styles:
