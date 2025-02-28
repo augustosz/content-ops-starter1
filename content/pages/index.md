@@ -306,7 +306,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col-reverse
+            flexDirection: col
             borderWidth: 0
             margin:
               - mb-0
