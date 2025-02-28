@@ -574,7 +574,7 @@ sections:
       - type: FeaturedItem
         title: Medic Care - Plataforma Web para Centros de Salud
         tagline: This is the tagline
-        subtitle: 'Descripción General:'
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
