@@ -605,7 +605,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Feature Item Three
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
