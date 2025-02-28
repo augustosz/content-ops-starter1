@@ -77,6 +77,7 @@ sections:
           self:
             padding:
               - pl-6
+              - pr-6
       - type: ImageBlock
         url: /images/JavaScript (3).svg
         altText: Sanity logo
