@@ -81,6 +81,10 @@ sections:
       - type: ImageBlock
         url: /images/JavaScript (3).svg
         altText: Sanity logo
+        styles:
+          self:
+            padding:
+              - pl-6
     motion: static
     colors: bg-neutral-fg-dark
     styles:
