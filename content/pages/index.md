@@ -356,7 +356,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         title: Feature Item Three
         tagline: ''
