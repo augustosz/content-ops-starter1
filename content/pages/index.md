@@ -492,9 +492,10 @@ sections:
     styles:
       self:
         padding:
-          - pr-0
-          - pt-52
-          - pb-32
+          - pr-16
+          - pt-16
+          - pb-16
+          - pl-16
         margin:
           - mr-0
         alignItems: flex-start
