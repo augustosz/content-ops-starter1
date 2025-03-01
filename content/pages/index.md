@@ -492,7 +492,7 @@ sections:
         margin:
           - mr-0
         alignItems: flex-start
-        flexDirection: row
+        flexDirection: col
     elementId: '1'
 slug: /
 seo:
