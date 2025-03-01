@@ -132,6 +132,10 @@ sections:
       - type: ImageBlock
         url: /images/Astro.png
         altText: Empathy logo
+        styles:
+          self:
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/Svelte.png
         altText: Image alt text placeholder
