@@ -14,25 +14,15 @@ sections:
         label: Contactar
         altText: ''
         url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     media:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
-      url: /images/abstract-feature2.svg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -52,32 +42,136 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/background-grid.svg
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: 'El Proceso de Creación de Tu Página Web: De la Idea a la Realidad'
+      color: text-dark
+    subtitle: ''
+    text: "<div style=\"text-align: center\">![](https://static.vecteezy.com/system/resources/previews/020/033/717/large_2x/product-team-searching-engine-optimization-vector.jpg)</div>\n\nTener una página web profesional es más que solo diseñar un sitio bonito; es construir **una herramienta poderosa** para atraer clientes y hacer crecer tu negocio. Aquí te explico cómo lo haremos juntos:\n\n#### 1️⃣ **Reunión y Planificación** \U0001F4DD\n\nTodo comienza con una charla. Quiero conocer **tu negocio, tus objetivos y tu público**, para diseñar una estrategia web que realmente funcione.\n\n#### 2️⃣ **Diseño Personalizado** \U0001F3A8\n\nAquí creamos **la apariencia visual** de tu sitio, asegurando que refleje **tu identidad** y capte la atención de tus clientes. Utilizo diseños modernos, adaptables y optimizados para brindar **una experiencia impecable** en cualquier dispositivo.\n\n#### 3️⃣ **Desarrollo y Funcionalidad** \U0001F4BB\n\nCon el diseño aprobado, llega el momento de **darle vida**. Implementamos funciones como formularios de contacto, botones de WhatsApp, integración con redes sociales y todo lo que necesites para conectar con tu audiencia.\n\n#### 4️⃣ **Optimización SEO y Seguridad** \U0001F50D\U0001F512\n\nTu web no solo debe verse bien, sino también **ser encontrada en Google**. Configuramos **SEO básico**, velocidad de carga rápida y medidas de seguridad para proteger tanto tu información como la de tus clientes.\n\n#### 5️⃣ **Lanzamiento y Mantenimiento** \U0001F680\n\n¡Tu web está lista para salir al mundo! Te guiaré en su uso y, si lo deseas, puedo ofrecer mantenimiento para que siempre esté actualizada y funcionando sin problemas.\n"
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: flex-start
+        padding:
+          - pr-0
+          - pt-44
+          - pb-44
+      text:
+        textAlign: left
   - type: ImageGallerySection
-    subtitle: Con las tecnologías que mejor se ajusten a tus necesidades...
+    subtitle: Con las Tecnologías Web que Mejor se Ajusten a Tus Necesidades...
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
+        url: /images/Tailwind CSS.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+            padding:
+              - pl-6
+              - pr-6
       - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-      - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/Bootstrap.png
         altText: Telus logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/PostgresSQL.png
+        altText: Wellster logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
+      - type: ImageBlock
+        url: /images/MySQL.png
+        altText: Vise logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
+      - type: ImageBlock
+        url: /images/WordPress (1).png
         altText: Contentful logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
       - type: ImageBlock
         url: /images/Django (4).svg
         altText: Rangle logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
       - type: ImageBlock
         url: /images/JavaScript (3).svg
         altText: Sanity logo
-    motion: move-to-left
-    colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
+      - type: ImageBlock
+        url: /images/jQuery.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+            padding:
+              - pl-6
+              - pr-6
+      - type: ImageBlock
+        url: /images/Astro.png
+        altText: Empathy logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
+      - type: ImageBlock
+        url: /images/Svelte.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+            padding:
+              - pl-6
+              - pr-6
+    motion: move-to-right
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
@@ -96,87 +190,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    badge:
-      type: Badge
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Generic section with a video
+      text: 'Diseño Responsive: Tu Sitio Web Adaptado a Todos los Dispositivos'
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+          fontWeight: 700
+    subtitle: ''
+    text: "Con un diseño responsive, tu página no solo se verá moderna y profesional, sino que también **atraerá más clientes** al ofrecerles una experiencia cómoda y funcional en cualquier pantalla. \U0001F680\n"
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
@@ -184,77 +206,15 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Social Media Management
-      color: text-dark
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
+      url: /images/Presentación Proyecto Web Elegante Minimalista Beige (2).png
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: x-large
+          borderWidth: 0
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
@@ -265,80 +225,10 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-  - type: CarouselSection
-    subtitle: This is a subtitle
-    items:
-      - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Mira los Distintos Modelos
       color: text-primary
       styles:
         self:
@@ -346,217 +236,25 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Flexible Pricing
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: This is the subtitle for the pricing section
-    plans:
-      - type: PricingPlan
-        title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-            borderWidth: 1
-            borderStyle: dashed
-            textAlign: left
-      - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-4
-          - pb-4
-          - pl-6
-          - pr-6
-        margin:
-          - mt-96
-          - mb-96
-          - ml-0
-          - mr-0
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: Featured items section subtitle
-    items:
-      - type: FeaturedItem
-        title: Plataforma de eCommerce
+        title: "Plataforma de eCommerce\_‎‎‎‎‎"
         tagline: ''
-        subtitle: 'Descripción General:'
-        text: >
-          Plataforma de comercio electrónico moderna e intuitiva, diseñada para
-          ofrecer una experiencia de compra fluida y atractiva. La solución
-          permite la gestión eficiente de productos, pedidos y usuarios, con un
-          enfoque en la optimización de la conversión y la satisfacción del
-          cliente.
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: '/images/{93646202-EF75-417B-AB05-DC14DFF109EE}.png'
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pt-0
         actions:
           - type: Button
             label: Ver Demo Online
             altText: ''
             url: 'https://augustosz.github.io/zaz/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -572,19 +270,18 @@ sections:
             borderRadius: x-large
             flexDirection: col
             borderWidth: 0
+            margin:
+              - mb-0
+            justifyContent: center
+            textAlign: left
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Medic Care es una plataforma web diseñada para hospitales, clínicas y
-          centros de salud con el objetivo de ofrecer información clara y
-          accesible a los pacientes. Desarrollado con tecnologías modernas, el
-          sitio proporciona una experiencia intuitiva y profesional para la
-          gestión de citas, información médica y contacto con especialistas.
+        title: Medic Care - Web para Centros de Salud
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
           altText: Placeholder image
           styles:
             self:
@@ -594,7 +291,7 @@ sections:
             label: Ver Demo Online
             altText: ''
             url: 'https://augustosz.github.io/hospital/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -609,20 +306,30 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: left
+            justifyContent: center
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        title: Medic Care - Web para Centros de Salud
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -633,6 +340,110 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Medic Care - Web para Centros de Salud
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Medic Care - Web para Centros de Salud
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Medic Care - Web para Centros de Salud
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -646,52 +457,21 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: move-up
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
       text: "\U0001F4E9 Hablemos sobre tu proyecto"
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: "¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n"
     actions: []
     badge:
       type: Badge
       label: CONTACTAME
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     media:
       type: ImageBlock
-      url: '/images/whats@0,5x.png'
       altText: Image alt text placeholder
       elementId: ''
       styles:
@@ -707,9 +487,14 @@ sections:
       self:
         padding:
           - pr-0
-          - pt-14
+          - pt-52
+          - pb-32
         margin:
           - mr-0
+        alignItems: flex-start
+        flexDirection: row
+        justifyContent: center
+    elementId: '1'
 slug: /
 seo:
   type: Seo
