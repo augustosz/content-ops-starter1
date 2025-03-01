@@ -77,6 +77,10 @@ sections:
       - type: ImageBlock
         url: /images/MySQL.png
         altText: Vise logo
+        styles:
+          self:
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/WordPress (1).png
         altText: Contentful logo
