@@ -270,7 +270,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
-      url: /images/Presentación Proyecto Web Elegante Minimalista Beige (1).png
+      url: /images/Presentación Proyecto Web Elegante Minimalista Beige.png
     badge:
       type: Badge
       label: This is a badge
