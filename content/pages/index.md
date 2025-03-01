@@ -237,7 +237,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/diseño_responsivo11.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
