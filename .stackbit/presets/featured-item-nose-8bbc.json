@@ -1,0 +1,67 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "nose",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "nose"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Medic Care - Web para Centros de Salud",
+                "tagline": "",
+                "subtitle": "",
+                "text": "",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Placeholder image",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "x-large"
+                        }
+                    }
+                },
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Ver Demo Online",
+                        "altText": "",
+                        "url": "https://augustosz.github.io/hospital/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-8",
+                            "pl-8",
+                            "pb-8",
+                            "pr-8"
+                        ],
+                        "borderRadius": "x-large",
+                        "flexDirection": "col",
+                        "textAlign": "left",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-nose-8bbc.png"
+        }
+    ]
+}
