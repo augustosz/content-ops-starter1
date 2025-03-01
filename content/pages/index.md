@@ -24,13 +24,13 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-32
           - pl-16
           - pb-32
           - pr-16
@@ -44,10 +44,10 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'El Proceso de Creación de Tu Página Web: De la Idea a la Realidad'
+      text: ''
       color: text-dark
     subtitle: ''
-    text: "<div style=\"text-align: center\">![](https://static.vecteezy.com/system/resources/previews/020/033/717/large_2x/product-team-searching-engine-optimization-vector.jpg)</div>\n\nTener una página web profesional es más que solo diseñar un sitio bonito; es construir **una herramienta poderosa** para atraer clientes y hacer crecer tu negocio. Aquí te explico cómo lo haremos juntos:\n\n#### 1️⃣ **Reunión y Planificación** \U0001F4DD\n\nTodo comienza con una charla. Quiero conocer **tu negocio, tus objetivos y tu público**, para diseñar una estrategia web que realmente funcione.\n\n#### 2️⃣ **Diseño Personalizado** \U0001F3A8\n\nAquí creamos **la apariencia visual** de tu sitio, asegurando que refleje **tu identidad** y capte la atención de tus clientes. Utilizo diseños modernos, adaptables y optimizados para brindar **una experiencia impecable** en cualquier dispositivo.\n\n#### 3️⃣ **Desarrollo y Funcionalidad** \U0001F4BB\n\nCon el diseño aprobado, llega el momento de **darle vida**. Implementamos funciones como formularios de contacto, botones de WhatsApp, integración con redes sociales y todo lo que necesites para conectar con tu audiencia.\n\n#### 4️⃣ **Optimización SEO y Seguridad** \U0001F50D\U0001F512\n\nTu web no solo debe verse bien, sino también **ser encontrada en Google**. Configuramos **SEO básico**, velocidad de carga rápida y medidas de seguridad para proteger tanto tu información como la de tus clientes.\n\n#### 5️⃣ **Lanzamiento y Mantenimiento** \U0001F680\n\n¡Tu web está lista para salir al mundo! Te guiaré en su uso y, si lo deseas, puedo ofrecer mantenimiento para que siempre esté actualizada y funcionando sin problemas.\n"
+    text: "### El Proceso de Creación de Tu Página Web: De la Idea a la Realidad\n\nTener una página web profesional es más que solo diseñar un sitio bonito; es construir **una herramienta poderosa** para atraer clientes y hacer crecer tu negocio. Aquí te explico cómo lo haremos juntos:![](https://static.vecteezy.com/system/resources/previews/020/033/717/large_2x/product-team-searching-engine-optimization-vector.jpg)\n\n##### 1️⃣ **Reunión y Planificación** \U0001F4DD\n\nTodo comienza con una charla. Quiero conocer **tu negocio, tus objetivos y tu público**, para diseñar una estrategia web que realmente funcione.\n\n##### 2️⃣ **Diseño Personalizado** \U0001F3A8\n\nAquí creamos **la apariencia visual** de tu sitio, asegurando que refleje **tu identidad** y capte la atención de tus clientes. Utilizo diseños modernos, adaptables y optimizados para brindar **una experiencia impecable** en cualquier dispositivo.\n\n#### 3️⃣ **Desarrollo y Funcionalidad** \U0001F4BB\n\nCon el diseño aprobado, llega el momento de **darle vida**. Implementamos funciones como formularios de contacto, botones de WhatsApp, integración con redes sociales y todo lo que necesites para conectar con tu audiencia.\n\n##### 4️⃣ **Optimización SEO y Seguridad** \U0001F50D\U0001F512\n\nTu web no solo debe verse bien, sino también **ser encontrada en Google**. Configuramos **SEO básico**, velocidad de carga rápida y medidas de seguridad para proteger tanto tu información como la de tus clientes.\n\n##### 5️⃣ **Lanzamiento y Mantenimiento** \U0001F680\n\n¡Tu web está lista para salir al mundo! Te guiaré en su uso y, si lo deseas, puedo ofrecer mantenimiento para que siempre esté actualizada y funcionando sin problemas.\n"
     actions:
       - type: Button
         label: Get started
@@ -177,16 +177,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: GenericSection
     title:
       type: TitleBlock
@@ -220,16 +210,6 @@ sections:
         self:
           borderRadius: x-large
           borderWidth: 0
-  - type: DividerSection
-    title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -264,7 +244,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -279,6 +259,7 @@ sections:
               - mb-0
             justifyContent: center
             textAlign: left
+            borderColor: border-neutralAlt
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
         tagline: ''
@@ -301,7 +282,42 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
+            borderColor: border-neutralAlt
+      - type: FeaturedItem
+        title: Medic Care - Web para Centros de Salud
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -335,7 +351,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -369,7 +385,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -403,41 +419,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: left
-            justifyContent: center
-      - type: FeaturedItem
-        title: Medic Care - Web para Centros de Salud
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver Demo Online
-            altText: ''
-            url: 'https://augustosz.github.io/hospital/'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -492,8 +474,8 @@ sections:
       self:
         padding:
           - pr-16
-          - pt-16
-          - pb-16
+          - pt-32
+          - pb-32
           - pl-16
         margin:
           - mr-0
