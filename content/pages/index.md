@@ -237,7 +237,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/diseño_responsivo11.jpg
+      url: /images/Presentación Proyecto Web Elegante Minimalista Beige (2).png
       altText: Image alt text placeholder
       elementId: ''
       styles:
