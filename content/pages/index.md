@@ -205,6 +205,11 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
       subtitle:
         textAlign: left
     media:
