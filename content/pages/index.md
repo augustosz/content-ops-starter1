@@ -71,7 +71,7 @@ sections:
         flexDirection: row-reverse
         justifyContent: flex-start
         padding:
-          - pr-36
+          - pr-0
       text:
         textAlign: left
   - type: ImageGallerySection
