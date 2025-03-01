@@ -469,7 +469,7 @@ sections:
       type: Badge
       label: CONTACTAME
       color: text-primary
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     media:
       type: ImageBlock
       altText: Image alt text placeholder
