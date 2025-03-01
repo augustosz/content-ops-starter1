@@ -213,7 +213,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 700
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: "✅ **Accesibilidad total**: Tu web se verá perfecta en cualquier dispositivo.\n✅ **Carga rápida y optimizada**, mejorando la experiencia del usuario.\n✅ **Mayor alcance**, ya que Google favorece los sitios adaptados a móviles.\n✅ **Interfaz intuitiva**, facilitando que los visitantes encuentren lo que necesitan sin esfuerzo.\n\nCon un diseño responsive, tu página no solo se verá moderna y profesional, sino que también **atraerá más clientes** al ofrecerles una experiencia cómoda y funcional en cualquier pantalla. \U0001F680\n"
     actions: []
     colors: bg-light-fg-dark
