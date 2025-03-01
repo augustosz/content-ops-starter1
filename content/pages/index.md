@@ -126,6 +126,8 @@ sections:
         styles:
           self:
             borderRadius: medium
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/Astro.png
         altText: Empathy logo
