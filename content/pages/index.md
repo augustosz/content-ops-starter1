@@ -74,6 +74,10 @@ sections:
       - type: ImageBlock
         url: /images/PostgresSQL.png
         altText: Wellster logo
+        styles:
+          self:
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/MySQL.png
         altText: Vise logo
