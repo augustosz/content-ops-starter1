@@ -243,7 +243,7 @@ sections:
       styles:
         self:
           borderRadius: x-large
-          borderWidth: 4
+          borderWidth: 2
   - type: GenericSection
     title:
       type: TitleBlock
