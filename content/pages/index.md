@@ -53,7 +53,7 @@ sections:
       opacity: 100
       url: /images/background-grid.svg
   - type: ImageGallerySection
-    subtitle: Con las tecnologías que mejor se ajusten a tus necesidades...
+    subtitle: Con las Tecnologías Web que Mejor se Ajusten a Tus Necesidades...
     images:
       - type: ImageBlock
         altText: Image alt text placeholder
