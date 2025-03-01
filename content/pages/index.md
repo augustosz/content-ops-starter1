@@ -81,6 +81,7 @@ sections:
           self:
             padding:
               - pl-6
+              - pr-6
       - type: ImageBlock
         url: /images/WordPress (1).png
         altText: Contentful logo
