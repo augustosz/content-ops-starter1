@@ -69,7 +69,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-        justifyContent: flex-start
+        justifyContent: center
       text:
         textAlign: left
   - type: ImageGallerySection
