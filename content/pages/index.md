@@ -23,7 +23,6 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
-      url: /images/abstract-feature2.svg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
