@@ -97,17 +97,17 @@ sections:
               - pl-6
               - pr-6
       - type: ImageBlock
-        url: /images/Astro.png
-        altText: Empathy logo
-      - type: ImageBlock
-        url: /images/Svelte.png
+        url: /images/jQuery.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/jQuery.png
+        url: /images/Astro.png
+        altText: Empathy logo
+      - type: ImageBlock
+        url: /images/Svelte.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
