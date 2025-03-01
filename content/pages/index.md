@@ -488,7 +488,7 @@ sections:
         padding:
           - pr-0
           - pt-32
-          - pb-14
+          - pb-32
         margin:
           - mr-0
     elementId: '1'
