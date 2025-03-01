@@ -72,6 +72,14 @@ sections:
         url: /images/Bootstrap.png
         altText: Telus logo
       - type: ImageBlock
+        url: /images/Django (4).svg
+        altText: Rangle logo
+        styles:
+          self:
+            padding:
+              - pl-6
+              - pr-6
+      - type: ImageBlock
         url: /images/PostgresSQL.png
         altText: Wellster logo
       - type: ImageBlock
@@ -80,14 +88,6 @@ sections:
       - type: ImageBlock
         url: /images/WordPress (1).png
         altText: Contentful logo
-      - type: ImageBlock
-        url: /images/Django (4).svg
-        altText: Rangle logo
-        styles:
-          self:
-            padding:
-              - pl-6
-              - pr-6
       - type: ImageBlock
         url: /images/JavaScript (3).svg
         altText: Sanity logo
