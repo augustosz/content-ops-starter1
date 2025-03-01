@@ -144,6 +144,8 @@ sections:
         styles:
           self:
             borderRadius: medium
+            padding:
+              - pl-6
     motion: static
     colors: bg-neutral-fg-dark
     styles:
