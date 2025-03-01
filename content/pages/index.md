@@ -492,6 +492,7 @@ sections:
         margin:
           - mr-0
         alignItems: center
+        flexDirection: col
     elementId: '1'
 slug: /
 seo:
