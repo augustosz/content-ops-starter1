@@ -72,9 +72,6 @@ sections:
         url: /images/Bootstrap.png
         altText: Telus logo
       - type: ImageBlock
-        url: /images/Astro.png
-        altText: Empathy logo
-      - type: ImageBlock
         url: /images/PostgresSQL.png
         altText: Wellster logo
       - type: ImageBlock
@@ -99,6 +96,9 @@ sections:
             padding:
               - pl-6
               - pr-6
+      - type: ImageBlock
+        url: /images/Astro.png
+        altText: Empathy logo
       - type: ImageBlock
         url: /images/Svelte.png
         altText: Image alt text placeholder
