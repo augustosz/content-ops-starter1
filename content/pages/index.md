@@ -69,6 +69,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      text:
+        textAlign: center
   - type: ImageGallerySection
     subtitle: Con las Tecnologías Web que Mejor se Ajusten a Tus Necesidades...
     images:
