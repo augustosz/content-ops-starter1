@@ -81,16 +81,16 @@ sections:
         url: /images/WordPress (1).png
         altText: Contentful logo
       - type: ImageBlock
-        url: /images/JavaScript (3).svg
-        altText: Sanity logo
+        url: /images/Django (4).svg
+        altText: Rangle logo
         styles:
           self:
             padding:
               - pl-6
               - pr-6
       - type: ImageBlock
-        url: /images/Django (4).svg
-        altText: Rangle logo
+        url: /images/JavaScript (3).svg
+        altText: Sanity logo
         styles:
           self:
             padding:
