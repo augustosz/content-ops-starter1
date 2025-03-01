@@ -69,6 +69,9 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
+        url: /images/Bootstrap.png
+        altText: Telus logo
+      - type: ImageBlock
         url: /images/Astro.png
         altText: Empathy logo
       - type: ImageBlock
@@ -77,9 +80,6 @@ sections:
       - type: ImageBlock
         url: /images/MySQL.png
         altText: Vise logo
-      - type: ImageBlock
-        url: /images/Bootstrap.png
-        altText: Telus logo
       - type: ImageBlock
         url: /images/WordPress (1).png
         altText: Contentful logo
