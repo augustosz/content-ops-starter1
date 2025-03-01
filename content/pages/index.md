@@ -70,6 +70,8 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: flex-start
+        padding:
+          - pr-36
       text:
         textAlign: left
   - type: ImageGallerySection
