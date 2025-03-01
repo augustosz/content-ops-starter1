@@ -423,7 +423,7 @@ sections:
         padding:
           - pr-0
           - pt-14
-          - pb-12
+          - pb-16
         margin:
           - mr-0
     elementId: '1'
