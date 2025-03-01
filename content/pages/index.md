@@ -71,7 +71,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pr-0
-          - pt-0
+          - pt-44
           - pb-0
       text:
         textAlign: left
