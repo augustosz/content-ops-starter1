@@ -5,6 +5,32 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: 'El Proceso de Creación de Tu Página Web: De la Idea a la Realidad'
+      color: text-dark
+    subtitle: ''
+    text: "![](https://static.vecteezy.com/system/resources/previews/020/033/717/large_2x/product-team-searching-engine-optimization-vector.jpg)\n\nTener una página web profesional es más que solo diseñar un sitio bonito; es construir **una herramienta poderosa** para atraer clientes y hacer crecer tu negocio. Aquí te explico cómo lo haremos juntos:\n\n\n\n#### 1️⃣ **Reunión y Planificación** \U0001F4DD\n\nTodo comienza con una charla. Quiero conocer **tu negocio, tus objetivos y tu público**, para diseñar una estrategia web que realmente funcione.\n\n#### 2️⃣ **Diseño Personalizado** \U0001F3A8\n\nAquí creamos **la apariencia visual** de tu sitio, asegurando que refleje **tu identidad** y capte la atención de tus clientes. Utilizo diseños modernos, adaptables y optimizados para brindar **una experiencia impecable** en cualquier dispositivo.\n\n#### 3️⃣ **Desarrollo y Funcionalidad** \U0001F4BB\n\nCon el diseño aprobado, llega el momento de **darle vida**. Implementamos funciones como formularios de contacto, botones de WhatsApp, integración con redes sociales y todo lo que necesites para conectar con tu audiencia.\n\n#### 4️⃣ **Optimización SEO y Seguridad** \U0001F50D\U0001F512\n\nTu web no solo debe verse bien, sino también **ser encontrada en Google**. Configuramos **SEO básico**, velocidad de carga rápida y medidas de seguridad para proteger tanto tu información como la de tus clientes.\n\n#### 5️⃣ **Lanzamiento y Mantenimiento** \U0001F680\n\n¡Tu web está lista para salir al mundo! Te guiaré en su uso y, si lo deseas, puedo ofrecer mantenimiento para que siempre esté actualizada y funcionando sin problemas.\n"
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: "Potenciá tu negocio con una web profesional y atractiva\U0001F680"
       color: text-dark
     subtitle: ''
@@ -43,32 +69,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/background-grid.svg
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: 'El Proceso de Creación de Tu Página Web: De la Idea a la Realidad'
-      color: text-dark
-    subtitle: ''
-    text: "![](https://static.vecteezy.com/system/resources/previews/020/033/717/large_2x/product-team-searching-engine-optimization-vector.jpg)\n\nTener una página web profesional es más que solo diseñar un sitio bonito; es construir **una herramienta poderosa** para atraer clientes y hacer crecer tu negocio. Aquí te explico cómo lo haremos juntos:\n\n\n\n#### 1️⃣ **Reunión y Planificación** \U0001F4DD\n\nTodo comienza con una charla. Quiero conocer **tu negocio, tus objetivos y tu público**, para diseñar una estrategia web que realmente funcione.\n\n#### 2️⃣ **Diseño Personalizado** \U0001F3A8\n\nAquí creamos **la apariencia visual** de tu sitio, asegurando que refleje **tu identidad** y capte la atención de tus clientes. Utilizo diseños modernos, adaptables y optimizados para brindar **una experiencia impecable** en cualquier dispositivo.\n\n#### 3️⃣ **Desarrollo y Funcionalidad** \U0001F4BB\n\nCon el diseño aprobado, llega el momento de **darle vida**. Implementamos funciones como formularios de contacto, botones de WhatsApp, integración con redes sociales y todo lo que necesites para conectar con tu audiencia.\n\n#### 4️⃣ **Optimización SEO y Seguridad** \U0001F50D\U0001F512\n\nTu web no solo debe verse bien, sino también **ser encontrada en Google**. Configuramos **SEO básico**, velocidad de carga rápida y medidas de seguridad para proteger tanto tu información como la de tus clientes.\n\n#### 5️⃣ **Lanzamiento y Mantenimiento** \U0001F680\n\n¡Tu web está lista para salir al mundo! Te guiaré en su uso y, si lo deseas, puedo ofrecer mantenimiento para que siempre esté actualizada y funcionando sin problemas.\n"
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: ImageGallerySection
     subtitle: Con las Tecnologías Web que Mejor se Ajusten a Tus Necesidades...
     images:
