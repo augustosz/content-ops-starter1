@@ -65,7 +65,7 @@ sections:
         url: /images/vise-logo.svg
         altText: Vise logo
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/Bootstrap.png
         altText: Telus logo
       - type: ImageBlock
         url: /images/WordPress (1).png
