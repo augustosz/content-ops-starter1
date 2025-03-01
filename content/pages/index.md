@@ -457,9 +457,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-8
+          - pl-16
           - pb-16
-          - pr-8
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
