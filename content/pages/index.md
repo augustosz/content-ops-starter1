@@ -84,6 +84,7 @@ sections:
           self:
             padding:
               - pl-6
+              - pr-6
       - type: ImageBlock
         url: /images/Django (4).svg
         altText: Rangle logo
