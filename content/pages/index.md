@@ -259,7 +259,7 @@ sections:
               - mb-0
             justifyContent: center
             textAlign: left
-            borderColor: border-primary
+            borderColor: border-light
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
         tagline: ''
