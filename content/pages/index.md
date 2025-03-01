@@ -80,6 +80,10 @@ sections:
       - type: ImageBlock
         url: /images/WordPress (1).png
         altText: Contentful logo
+        styles:
+          self:
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/Django (4).svg
         altText: Rangle logo
