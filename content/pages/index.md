@@ -78,6 +78,7 @@ sections:
           self:
             padding:
               - pl-6
+              - pr-6
       - type: ImageBlock
         url: /images/MySQL.png
         altText: Vise logo
