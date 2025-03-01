@@ -56,7 +56,7 @@ sections:
     subtitle: Con las tecnologías que mejor se ajusten a tus necesidades...
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Astro.png
         altText: Empathy logo
       - type: ImageBlock
         url: /images/PostgresSQL.png
