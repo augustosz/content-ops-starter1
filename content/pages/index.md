@@ -32,7 +32,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
+          - pb-32
           - pr-16
     backgroundImage:
       type: BackgroundImage
@@ -41,7 +41,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/background-grid.svg
   - type: GenericSection
     title:
       type: TitleBlock
@@ -70,9 +69,10 @@ sections:
         flexDirection: row-reverse
         justifyContent: flex-start
         padding:
-          - pr-0
-          - pt-44
-          - pb-44
+          - pr-16
+          - pt-16
+          - pb-16
+          - pl-16
       text:
         textAlign: left
   - type: ImageGallerySection
@@ -204,6 +204,11 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
       subtitle:
         textAlign: left
     media:
@@ -451,9 +456,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-8
+          - pl-16
           - pb-16
-          - pr-8
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
@@ -486,9 +491,10 @@ sections:
     styles:
       self:
         padding:
-          - pr-0
-          - pt-52
-          - pb-32
+          - pr-16
+          - pt-16
+          - pb-16
+          - pl-16
         margin:
           - mr-0
         alignItems: flex-start
