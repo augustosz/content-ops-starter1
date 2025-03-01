@@ -207,7 +207,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Diseño Responsive: Tu Sitio Web Adaptado a Todos los Dispositivos'
       color: text-dark
       styles:
         self:
