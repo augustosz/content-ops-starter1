@@ -493,6 +493,7 @@ sections:
           - mr-0
         alignItems: flex-start
         flexDirection: row
+        justifyContent: center
     elementId: '1'
 slug: /
 seo:
