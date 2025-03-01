@@ -68,7 +68,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: row-reverse
         justifyContent: center
       text:
         textAlign: left
