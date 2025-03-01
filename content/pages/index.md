@@ -487,7 +487,7 @@ sections:
       self:
         padding:
           - pr-0
-          - pt-64
+          - pt-52
           - pb-32
         margin:
           - mr-0
