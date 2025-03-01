@@ -62,7 +62,7 @@ sections:
         url: /images/wellster-logo.svg
         altText: Wellster logo
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/MySQL.png
         altText: Vise logo
       - type: ImageBlock
         url: /images/Bootstrap.png
