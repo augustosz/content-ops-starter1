@@ -294,6 +294,7 @@ sections:
             flexDirection: col
             textAlign: left
             justifyContent: center
+            borderColor: border-neutralAlt
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
         tagline: ''
