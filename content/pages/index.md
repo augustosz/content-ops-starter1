@@ -242,7 +242,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: xx-small
+          borderRadius: small
   - type: GenericSection
     title:
       type: TitleBlock
