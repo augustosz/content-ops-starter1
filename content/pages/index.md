@@ -491,7 +491,7 @@ sections:
           - pb-32
         margin:
           - mr-0
-        alignItems: center
+        alignItems: flex-start
         flexDirection: col
     elementId: '1'
 slug: /
