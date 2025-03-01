@@ -72,7 +72,7 @@ sections:
         padding:
           - pr-0
           - pt-0
-          - pb-44
+          - pb-0
       text:
         textAlign: left
   - type: ImageGallerySection
