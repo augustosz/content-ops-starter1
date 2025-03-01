@@ -147,7 +147,7 @@ sections:
             padding:
               - pl-6
               - pr-6
-    motion: static
+    motion: move-to-right
     colors: bg-neutral-fg-dark
     styles:
       self:
