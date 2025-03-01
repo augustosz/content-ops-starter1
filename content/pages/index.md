@@ -231,6 +231,44 @@ sections:
           - pl-7
           - pb-7
           - pr-7
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: "\U0001F4E9 Hablemos sobre tu proyecto"
+      color: text-dark
+    subtitle: ''
+    text: "¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n"
+    actions: []
+    badge:
+      type: Badge
+      label: CONTACTAME
+      color: text-primary
+    colors: bg-light-fg-dark
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+          padding:
+            - pl-0
+            - pr-0
+          margin:
+            - mb-0
+            - ml-10
+    styles:
+      self:
+        padding:
+          - pr-0
+          - pt-52
+          - pb-32
+        margin:
+          - mr-0
+        alignItems: flex-start
+        flexDirection: row
+        justifyContent: center
+    elementId: '1'
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -463,44 +501,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: "\U0001F4E9 Hablemos sobre tu proyecto"
-      color: text-dark
-    subtitle: ''
-    text: "¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n"
-    actions: []
-    badge:
-      type: Badge
-      label: CONTACTAME
-      color: text-primary
-    colors: bg-light-fg-dark
-    media:
-      type: ImageBlock
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
-          padding:
-            - pl-0
-            - pr-0
-          margin:
-            - mb-0
-            - ml-10
-    styles:
-      self:
-        padding:
-          - pr-0
-          - pt-52
-          - pb-32
-        margin:
-          - mr-0
-        alignItems: flex-start
-        flexDirection: row
-        justifyContent: center
-    elementId: '1'
 slug: /
 seo:
   type: Seo
