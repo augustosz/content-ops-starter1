@@ -71,6 +71,10 @@ sections:
       - type: ImageBlock
         url: /images/Bootstrap.png
         altText: Telus logo
+        styles:
+          self:
+            padding:
+              - pl-6
       - type: ImageBlock
         url: /images/PostgresSQL.png
         altText: Wellster logo
