@@ -254,7 +254,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            borderWidth: 1
+            borderWidth: 2
             margin:
               - mb-0
             justifyContent: center
