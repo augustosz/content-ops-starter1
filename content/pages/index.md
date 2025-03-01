@@ -92,6 +92,13 @@ sections:
             padding:
               - pl-6
               - pr-6
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: static
     colors: bg-neutral-fg-dark
     styles:
