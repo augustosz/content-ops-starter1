@@ -72,7 +72,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pr-0
-          - pt-96
+          - pt-44
       text:
         textAlign: left
   - type: ImageGallerySection
