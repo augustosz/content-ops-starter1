@@ -23,7 +23,7 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
-      url: /images/fb761fbf-0e5a-4897-9817-27a2985f34e0.png
+      url: /images/872e9e30-581b-47cb-8dff-66087364ebe0.png
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
