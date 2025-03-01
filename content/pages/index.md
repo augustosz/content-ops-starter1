@@ -269,7 +269,6 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Presentación Proyecto Web Elegante Minimalista Beige (1).png
       altText: Fun feature preview
     badge:
       type: Badge
