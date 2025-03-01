@@ -343,7 +343,7 @@ sections:
             url: 'https://augustosz.github.io/hospital/'
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
         colors: bg-light-fg-dark
