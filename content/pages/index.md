@@ -225,7 +225,7 @@ sections:
           textAlign: center
     subtitle: >-
       a modo demostrativo ya que cada modelo llevado al mundo real contendría su
-      lógica de negocio.
+      lógica de negocio apropiada.
     items:
       - type: FeaturedItem
         title: Web para restaurantes
