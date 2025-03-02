@@ -451,6 +451,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
   - type: GenericSection
     title:
       type: TitleBlock
