@@ -223,7 +223,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: a modo demostrativo ya que cada modelo contiene su lógica de negocio.
     items:
       - type: FeaturedItem
         title: Web para restaurantes
