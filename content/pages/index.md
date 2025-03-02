@@ -332,7 +332,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            textAlign: justify
+            textAlign: left
             justifyContent: center
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
