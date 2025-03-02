@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "Potenciá tu negocio con una web profesional y atractiva\U0001F680"
+      text: "Potenciá tu Negocio Con una Web Profesional y Atractiva\U0001F680"
       color: text-dark
     subtitle: ''
     text: "\n ¿Necesitás una página web moderna, rápida y optimizada para convertir visitas en clientes? Como desarrollador freelance, diseño sitios a medida que destacan tu marca, mejoran tu presencia online y generan resultados. \U0001F4BB✨ Contactame y llevemos tu proyecto al siguiente nivel.\n\n"
