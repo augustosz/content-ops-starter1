@@ -262,6 +262,41 @@ sections:
             margin:
               - mt-0
       - type: FeaturedItem
+        title: Web para centros de salud
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/hospital/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
+            borderColor: border-neutralAlt
+      - type: FeaturedItem
         title: "Plataforma de eCommerce\_‎‎‎‎‎"
         tagline: ''
         subtitle: ''
@@ -300,41 +335,6 @@ sections:
               - mb-0
             justifyContent: center
             textAlign: left
-            borderColor: border-neutralAlt
-      - type: FeaturedItem
-        title: Web para centros de salud
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: '/images/{D53107C6-981B-462D-9218-DD90EF921C3E}.png'
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver Demo Online
-            altText: ''
-            url: 'https://augustosz.github.io/hospital/'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: left
-            justifyContent: center
             borderColor: border-neutralAlt
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
