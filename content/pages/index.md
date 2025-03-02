@@ -452,6 +452,7 @@ sections:
       subtitle:
         textAlign: center
         fontStyle: italic
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
