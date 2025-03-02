@@ -316,7 +316,7 @@ sections:
           - type: Button
             label: Ver Demo Online
             altText: ''
-            url: 'https://augustosz.github.io/restaurante/'
+            url: 'https://augustosz.github.io/restaurante/public_html/index.html'
             showIcon: true
             icon: arrowRight
             iconPosition: right
