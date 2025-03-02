@@ -301,7 +301,7 @@ sections:
             justifyContent: center
             borderColor: border-neutralAlt
       - type: FeaturedItem
-        title: Medic Care - Web para Centros de Salud
+        title: Web para Restaurantes
         tagline: ''
         subtitle: ''
         text: ''
