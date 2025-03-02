@@ -307,7 +307,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: '/images/{FF569804-59DF-4D0B-82FB-F0C56A5820A5}.png'
+          url: '/images/{B6134651-D40B-492E-A10A-BB95DD3B9471}.png'
           altText: Placeholder image
           styles:
             self:
