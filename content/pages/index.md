@@ -333,7 +333,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             textAlign: left
-            justifyContent: flex-end
+            justifyContent: center
             margin:
               - mt-0
       - type: FeaturedItem
