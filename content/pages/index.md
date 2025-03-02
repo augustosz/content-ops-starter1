@@ -450,7 +450,7 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
