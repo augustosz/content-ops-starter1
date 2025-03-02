@@ -26,7 +26,7 @@ sections:
       url: /images/872e9e30-581b-47cb-8dff-66087364ebe0.png
       styles:
         self:
-          borderColor: border-neutralAlt
+          borderColor: border-dark
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
