@@ -223,7 +223,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: a modo demostrativo ya que cada modelo contendría su lógica de negocio.
+    subtitle: >-
+      a modo demostrativo ya que cada modelo contendría su lógica de negocio
+      aplicada a cada caso particular.
     items:
       - type: FeaturedItem
         title: Web para restaurantes
