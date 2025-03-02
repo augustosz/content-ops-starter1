@@ -335,7 +335,7 @@ sections:
             textAlign: left
             justifyContent: center
             margin:
-              - mt-96
+              - mt-0
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
         tagline: ''
