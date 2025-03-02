@@ -40,7 +40,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 31
       url: /images/0e6408b6bbec254cbcec77f08ebfd38d_resized.png
   - type: GenericSection
     title:
