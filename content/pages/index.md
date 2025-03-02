@@ -301,7 +301,7 @@ sections:
             justifyContent: center
             borderColor: border-neutralAlt
       - type: FeaturedItem
-        title: Web para Restaurantes
+        title: Web para restaurantes
         tagline: ''
         subtitle: ''
         text: ''
