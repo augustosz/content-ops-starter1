@@ -226,6 +226,42 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
+        title: Web para restaurantes
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: '/images/{9B7A59FD-144C-4E90-8933-0B94F10BF1CA}.png'
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Ver Demo Online
+            altText: ''
+            url: 'https://augustosz.github.io/restaurante/public_html/index.html'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: left
+            justifyContent: center
+            margin:
+              - mt-0
+      - type: FeaturedItem
         title: "Plataforma de eCommerce\_‎‎‎‎‎"
         tagline: ''
         subtitle: ''
@@ -300,42 +336,6 @@ sections:
             textAlign: left
             justifyContent: center
             borderColor: border-neutralAlt
-      - type: FeaturedItem
-        title: Web para restaurantes
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: '/images/{9B7A59FD-144C-4E90-8933-0B94F10BF1CA}.png'
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions:
-          - type: Button
-            label: Ver Demo Online
-            altText: ''
-            url: 'https://augustosz.github.io/restaurante/public_html/index.html'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: left
-            justifyContent: center
-            margin:
-              - mt-0
       - type: FeaturedItem
         title: Medic Care - Web para Centros de Salud
         tagline: ''
