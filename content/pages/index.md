@@ -44,7 +44,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: repeat-x
-      opacity: 8
+      opacity: 14
       url: /images/7ff784a3-9ad3-4cb3-bff5-bd0b304c3864.png
   - type: GenericSection
     title:
