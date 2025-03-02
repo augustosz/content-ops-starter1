@@ -27,6 +27,7 @@ sections:
       styles:
         self:
           borderColor: border-light
+          borderStyle: dashed
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
