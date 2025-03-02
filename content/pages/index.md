@@ -43,7 +43,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: repeat-y
+      backgroundRepeat: repeat-x
       opacity: 6
       url: /images/7ff784a3-9ad3-4cb3-bff5-bd0b304c3864.png
   - type: GenericSection
