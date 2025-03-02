@@ -41,7 +41,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 31
-      url: /images/0e6408b6bbec254cbcec77f08ebfd38d_resized.png
+      url: /images/872e9e30-581b-47cb-8dff-66087364ebe0.png
   - type: GenericSection
     title:
       type: TitleBlock
