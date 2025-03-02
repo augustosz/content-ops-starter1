@@ -23,6 +23,10 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          borderColor: border-light
+          borderStyle: dashed
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
@@ -30,17 +34,18 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-32
+          - pt-56
           - pl-16
-          - pb-32
+          - pb-56
           - pr-16
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
+      backgroundRepeat: repeat-x
+      opacity: 6
+      url: /images/7ff784a3-9ad3-4cb3-bff5-bd0b304c3864.png
   - type: GenericSection
     title:
       type: TitleBlock
@@ -244,7 +249,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -282,7 +287,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -317,7 +322,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -351,7 +356,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -385,7 +390,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -419,7 +424,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
