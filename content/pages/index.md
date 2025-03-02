@@ -266,7 +266,7 @@ sections:
             textAlign: left
             borderColor: border-neutralAlt
       - type: FeaturedItem
-        title: Web para Centros de Salud
+        title: Web para centros de salud
         tagline: ''
         subtitle: ''
         text: ''
