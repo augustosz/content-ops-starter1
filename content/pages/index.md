@@ -339,7 +339,7 @@ sections:
             textAlign: left
             borderColor: border-neutralAlt
       - type: FeaturedItem
-        title: Medic Care - Web para tienda informatica
+        title: "Medic Care\_ Web para tienda informatica"
         tagline: ''
         subtitle: ''
         text: ''
