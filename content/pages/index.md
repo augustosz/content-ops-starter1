@@ -354,7 +354,7 @@ sections:
           - type: Button
             label: Ver Demo Online
             altText: ''
-            url: 'https://augustosz.github.io/hospital/'
+            url: 'https://augustosz.github.io/informatica/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
