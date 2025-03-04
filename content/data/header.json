@@ -11,17 +11,7 @@
         "type": "ImageBlock",
         "url": "/images/2503020722421365.png"
     },
-    "primaryLinks": [
-        {
-            "label": "Proyectos",
-            "altText": "Página proyectos",
-            "url": "/proyectos",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
