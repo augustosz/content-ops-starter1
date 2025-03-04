@@ -49,6 +49,9 @@
         "self": {
             "padding": [
                 "pt-0"
+            ],
+            "margin": [
+                "mt-6"
             ]
         }
     }
