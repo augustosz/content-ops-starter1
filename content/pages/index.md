@@ -407,7 +407,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Medic Care - Web para Centros de Salud
+        title: Web para fines educativos
         tagline: ''
         subtitle: ''
         text: ''
