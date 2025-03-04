@@ -407,7 +407,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Web
+        title: Web para educación online
         tagline: ''
         subtitle: ''
         text: ''
