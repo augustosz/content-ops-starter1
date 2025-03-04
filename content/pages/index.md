@@ -407,7 +407,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Web para fines educativos
+        title: Web
         tagline: ''
         subtitle: ''
         text: ''
