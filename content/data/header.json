@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Inicio",
-            "url": "/inicio",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Proyectos",
             "altText": "Página proyectos",
             "url": "/proyectos",
