@@ -461,7 +461,7 @@ sections:
       text: "\U0001F4E9 Hablemos sobre tu proyecto"
       color: text-dark
     subtitle: ''
-    text: "¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n"
+    text: "¿Listo para llevar tu negocio al mundo digital? \U0001F680 Escribime y trabajemos juntos en la web perfecta para vos. Diseño sitios a medida, optimizados y listos para convertir. ¡Contáctame hoy y empecemos!\n\n**WhatsApp: +**54 9 343 468-4820\n\n**Correo electrónico:** dossantosaugusto36\\@gmail.com\n"
     actions: []
     badge:
       type: Badge
